@@ -1,6 +1,6 @@
 # MCU64
 STM32F405RGTx Header Board  
-compatible with most of STM32 TQFP64 Microcontrollers.    
+Compatible with most of STM32 TQFP64 Microcontrollers.    
 <br>
 Top:  
 ![Top](https://live.staticflickr.com/65535/49983474698_37bf8e7ff9_o.png "Top")  
